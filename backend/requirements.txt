@@ -1,0 +1,9 @@
+fastapi
+openai
+uvicorn
+docker
+redis
+pynvml
+bitsandbytes
+compressed-tensors
+openai
