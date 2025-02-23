@@ -74,5 +74,4 @@ services:
     command: [
       "--model", "facebook/opt-125m"
     ]
-    icp: host,
     restart: unless-stopped
